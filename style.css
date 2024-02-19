@@ -1,0 +1,36 @@
+body{
+    border: 0;
+    margin: 0;
+    font-family: sans-serif;
+    background: black;
+    color: white;
+}
+h4{
+    font-size: 50px;
+    position: absolute;
+    text-align: center;
+    top: 15%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.clock{
+    font-size: 100px;
+    padding: 10px;
+    position: absolute;
+    background: linear-gradient(135deg, #14ffe9, #ffeb3b, #ff00e0);
+    color: black;
+    border-radius: 12px;
+    text-align: center;
+    font-weight: 600;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.ana{
+    font-size: 50px;
+    position: absolute;
+    text-align: center;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
